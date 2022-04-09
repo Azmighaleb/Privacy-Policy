@@ -22,8 +22,8 @@ We collect information from your device in some cases. The information will be u
 Security
 The app is offline and just uses cookies services to check if the user use the app for first time or to save bookmarks , no third party used in app , no require for personal informations
 
-Children’s Privacy
-This Services can used by children since it is a book . 
+Families Policy
+This Services can used by all persons in family safey even children since it is a book no any ads in app or any website views. 
 
 Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
